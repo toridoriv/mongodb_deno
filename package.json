@@ -1,7 +1,7 @@
 {
   "name": "mongodb_deno",
   "description": "A MongoDb port for Deno.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "Tori Rodriguez",
     "email": "vrodriguezfe@icloud.com",
