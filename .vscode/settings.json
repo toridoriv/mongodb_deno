@@ -1,0 +1,15 @@
+{
+  "[typescriptreact][json][jsonc][typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "deno.enablePaths": [
+    "./mod.ts",
+    "./deps.ts",
+    "./src/"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": false
+  },
+  "editor.formatOnSave": true
+}
